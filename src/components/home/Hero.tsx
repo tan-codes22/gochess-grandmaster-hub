@@ -31,7 +31,7 @@ const Hero = () => {
               </Button>
             </Link>
             <Link to="/our-tutors">
-              <Button size="lg" variant="outline" className="border-gochess-blue text-gochess-blue hover:bg-gochess-blue hover:text-white text-lg">
+              <Button size="lg" variant="outline" className="border-gochess-blue text-gochess-blue hover:bg-gochess-blue hover:text-white hover:bg-black text-lg">
                 Meet Our Expert Coaches
               </Button>
             </Link>
