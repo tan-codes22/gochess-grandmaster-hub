@@ -118,7 +118,7 @@ const Contact = () => {
                 <div className="mt-10">
                   <h3 className="font-semibold text-lg mb-4">Find Us</h3>
                   <div className="bg-gray-200 rounded-lg h-[250px] flex items-center justify-center text-gray-500">
-                    <p>Google Maps Embed Would Go Here</p>
+                    <p>Location turned off</p>
                   </div>
                 </div>
               </div>
