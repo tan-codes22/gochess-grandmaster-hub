@@ -33,7 +33,7 @@ const Testimonials = () => {
     <section className="py-20 bg-gray-50">
       <div className="container mx-auto px-4">
         <SectionTitle 
-          title="Success Stories" 
+          title="What our clients say about us" 
           subtitle="Results from dedicated players who committed to strategic growth"
           center
         />

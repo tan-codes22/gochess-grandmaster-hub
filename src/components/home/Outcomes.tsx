@@ -26,8 +26,8 @@ const Outcomes = () => {
             <div className="w-16 h-16 bg-chess-primary/10 rounded-full flex items-center justify-center mx-auto mb-4">
               <Target className="h-8 w-8 text-chess-primary" />
             </div>
-            <h3 className="text-2xl font-bold mb-2">12</h3>
-            <p className="text-gray-700">State champions trained through our methodology</p>
+            <h3 className="text-2xl font-bold mb-2">96%</h3>
+            <p className="text-gray-700">Coaching satisfaction score</p>
           </div>
           
           <div className="text-center">

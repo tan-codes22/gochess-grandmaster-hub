@@ -37,12 +37,12 @@ const TutorCard: React.FC<TutorProps> = ({ tutor }) => {
           alt={tutor.name} 
           className="w-full h-full object-cover transition-transform duration-300 hover:scale-105"
         />
-        <div 
+        {/* <div 
           className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center"
           onClick={() => setIsEditingImage(true)}
         >
           <ImageIcon className="text-white w-6 h-6 cursor-pointer" />
-        </div>
+        </div> */}
       </div>
 
       {isEditingImage && (
@@ -84,11 +84,11 @@ const TutorCard: React.FC<TutorProps> = ({ tutor }) => {
           </p>
         </div>
       </CardContent>
-      <CardFooter className="border-t pt-4">
+      {/* <CardFooter className="border-t pt-4">
         <Button className="w-full bg-chess-primary hover:bg-chess-secondary">
           Book a Session
         </Button>
-      </CardFooter>
+      </CardFooter> */}
     </Card>
   );
 };

@@ -45,9 +45,9 @@ const Navbar = () => {
           <Link to="/about" className="text-base font-medium hover:text-gochess-orange transition-colors font-inter">
             About Us
           </Link>
-          <Link to="/our-tutors" className="text-base font-medium hover:text-gochess-orange transition-colors font-inter">
+          {/* <Link to="/our-tutors" className="text-base font-medium hover:text-gochess-orange transition-colors font-inter">
             Our Tutors
-          </Link>
+          </Link> */}
           <Link to="/contact" className="text-base font-medium hover:text-gochess-orange transition-colors font-inter">
             Contact
           </Link>
